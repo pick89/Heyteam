@@ -1,3 +1,3 @@
 # Heyteam
 
-I try to automate the Amazon website 
+I try to automize the Amazon.fr website 
